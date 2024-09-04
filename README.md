@@ -1,10 +1,15 @@
 # Conception-des-tests-et-Automatisation-
-Conception des tests pour "IT-akademy" et Automatisation avec Selenium et Pytest
-# Projet de Test du Site Web d'[It-Akademy](https://inscription.it-akademy.fr/)
+
+## Projet de Test du Site Web d'[It-Akademy](https://inscription.it-akademy.fr/)
 
 ## Objectif:
 
-Le projet vise à valider les fonctionnalités du site web [It-Akademy](https://inscription.it-akademy.fr/) avant la mise en production. Les principales actions à tester incluent la création de compte, la connexion, la réinitialisation du mot de passe. Le site doit s'afficher correctement sur différents navigateurs (Firefox, Chrome) et les messages d'erreur ne doivent pas divulguer d'informations sensibles. De plus, une fois déconnecté ou après l'expiration de la session, l'utilisateur ne doit plus pouvoir naviguer sur le site.
+Le projet vise à valider les fonctionnalités du site web [It-Akademy](https://inscription.it-akademy.fr/): 
+
+* Test des principales fonctionnalités : création de compte, connexion, réinitialisation du mot de passe.
+* Vérification de l'affichage correct du site sur différents navigateurs (Firefox, Chrome).
+* Assurance que les messages d'erreur ne divulguent pas d'informations sensibles.
+* Garantie qu'une fois déconnecté ou après l'expiration de la session, l'utilisateur ne puisse plus naviguer sur le site.
 
 
 ## Mes réalisations:
