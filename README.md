@@ -17,7 +17,7 @@ Dans le cadre de ce projet, détaillé plus en profondeur dans ce google docs ["
 
 * Création de scénarios de tests couvrant divers types de tests (fonctionnels, compatibilité, sécurité).
   Exemple: [cas de test](![image](https://github.com/user-attachments/assets/66f691c5-4f56-4f3d-8b46-8ce2edfaf7b0)
-)
+
 * Planification et Synthèse des tests.
 * Automatisation des scénarios de tests en utilisant Sélénium IDE.
 * Amélioration de la robustesse du script généré par Sélénium IDE grâce à des modifications ciblées.
