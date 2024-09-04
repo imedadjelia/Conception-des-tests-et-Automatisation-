@@ -4,21 +4,27 @@ Conception des tests pour "IT-akademy" et Automatisation avec Selenium et Pytest
 
 ## Objectif:
 
-Le projet vise à valider les fonctionnalités du site web [It-Akademy](https://inscription.it-akademy.fr/) avant la mise en production.
-[It-Akademy][url](https://inscription.it-akademy.fr/) souhaite valider les fonctionnalités de son site web d'inscription. Les principales actions à tester incluent la création de compte, la connexion, la réinitialisation du mot de passe, ainsi que la fonctionnalité "se souvenir de moi". Le site doit s'afficher correctement sur différents navigateurs (Firefox, Chrome) et les messages d'erreur ne doivent pas divulguer d'informations sensibles. De plus, une fois déconnecté ou après l'expiration de la session, l'utilisateur ne doit plus pouvoir naviguer sur le site.
+Le projet vise à valider les fonctionnalités du site web [It-Akademy](https://inscription.it-akademy.fr/) avant la mise en production. Les principales actions à tester incluent la création de compte, la connexion, la réinitialisation du mot de passe. Le site doit s'afficher correctement sur différents navigateurs (Firefox, Chrome) et les messages d'erreur ne doivent pas divulguer d'informations sensibles. De plus, une fois déconnecté ou après l'expiration de la session, l'utilisateur ne doit plus pouvoir naviguer sur le site.
+
+
 ## Mes réalisations:
-Dans ce projet, 
-* Création de scénarios de tests en appliquant différents types de tests (fonctionnels, compatibilité, sécurité).
-* Synthèse des tests planifiés.
-* Automatisation des tests avec Sélénium IDE.
-* Modification du script généré par Sélénium IDE pour améliorer la robustesse.
-* Exécution des tests avec Pytest.
+Dans le cadre de ce projet, détaillé plus en profondeur dans ce google docs ["Conception des tests"](https://docs.google.com/document/d/1o1g3CfSvPM0GjFFmtMKfW6YT3fQpt8lLYnLovWd1pS8/edit), j'ai accompli les tâches suivantes :
+
+* Création de scénarios de tests couvrant divers types de tests (fonctionnels, compatibilité, sécurité).
+* Planification et Synthèse des tests.
+* Automatisation des scénarios de tests en utilisant Sélénium IDE.
+* Amélioration de la robustesse du script généré par Sélénium IDE grâce à des modifications ciblées.
+* Exécution des tests automatisés via Pytest.
 * Génération d'un rapport HTML des résultats à l'aide du plugin "pytest-html".
 
 
 
 
-[Conception des tests](https://docs.google.com/document/d/1o1g3CfSvPM0GjFFmtMKfW6YT3fQpt8lLYnLovWd1pS8/edit)
+
+
+
+
+
 
 
 
