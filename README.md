@@ -1,6 +1,6 @@
 # Conception-des-tests-et-Automatisation-
 Conception des tests pour "IT-akademy" et Automatisation avec Selenium et Pytest
-# Projet de Test du Site Web d'[It-Akademy].(https://inscription.it-akademy.fr/)
+# Projet de Test du Site Web d'[It-Akademy](https://inscription.it-akademy.fr/)
 Création de scénarios de tests 
 Types de tests appliqués 
 Synthèse de tests 
