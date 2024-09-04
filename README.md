@@ -5,17 +5,17 @@ Dans le cadre du module "Introduction aux web services et API", nous avons réal
 Conception des tests 
 [Conception des tests](https://docs.google.com/document/d/1o1g3CfSvPM0GjFFmtMKfW6YT3fQpt8lLYnLovWd1pS8/edit)
 
-#Conception des Tests 
-##Projet :  Tester le site web de l’it-akademy «https://inscription.it-akademy.fr/»
-##Objectif :  It-akademy souhaite valider les fonctionnalités présentent sur sont site web «https://inscription.it-akademy.fr/ » avant une mise en production : 
-*L’utilisateur pour s’inscrire à l'une des formations doit se connecter à l’écran de connexion « Plateforme admissions ». Si l’ utilisateur ne dispose pas de compte , il doit pouvoir créer son compte via l’écran « Nouveau compte ». Si l’ utilisateur a oublié son mot de passe , il peut demander une réinitialisation via l’écran « Mot de passe oublié ». une case à cocher permet aux utilisateurs d’indiquer au site de « se souvenir de moi ».
- *le site Web doit s'afficher correctement dans différents navigateurs (Firefox, Chrome). Les messages d’erreur ne doivent pas afficher des informations importantes. 
-*L'utilisateur une fois déconnecté du système ou si la session utilisateur a expiré, l'utilisateur ne devrait pas pouvoir naviguer sur le site.
-##Environnement :
-###Navigateurs : IE, Firefox, Chrome, Safari et Opera
-###Systèmes d'exploitation : Windows 11
+# Conception des Tests 
+## Projet :  Tester le site web de l’it-akademy «https://inscription.it-akademy.fr/»
+## Objectif :  It-akademy souhaite valider les fonctionnalités présentent sur sont site web «https://inscription.it-akademy.fr/ » avant une mise en production : 
+* L’utilisateur pour s’inscrire à l'une des formations doit se connecter à l’écran de connexion « Plateforme admissions ». Si l’ utilisateur ne dispose pas de compte , il doit pouvoir créer son compte via l’écran « Nouveau compte ». Si l’ utilisateur a oublié son mot de passe , il peut demander une réinitialisation via l’écran « Mot de passe oublié ». une case à cocher permet aux utilisateurs d’indiquer au site de « se souvenir de moi ».
+* le site Web doit s'afficher correctement dans différents navigateurs (Firefox, Chrome). Les messages d’erreur ne doivent pas afficher des informations importantes. 
+* L'utilisateur une fois déconnecté du système ou si la session utilisateur a expiré, l'utilisateur ne devrait pas pouvoir naviguer sur le site.
+## Environnement :
+### Navigateurs : Firefox, Chrome
+### Systèmes d'exploitation : Windows 11
 
-##Règles de nommage :
+## Règles de nommage :
 
 Types de test : 
 F:  Fonctionnel
