@@ -1,18 +1,16 @@
 # Conception-des-tests-et-Automatisation-
 Conception des tests pour "IT-akademy" et Automatisation avec Selenium et Pytest
-Dans le cadre du module "Introduction aux web services et API", nous avons réalisé un TP visant à valider les fonctionnalités d'une API pour un système de gestion de location de véhicules. 
-
-Création de scénarios et cas de tests 
+# Projet de Test du Site Web d'[It-Akademy].(https://inscription.it-akademy.fr/)
+Création de scénarios de tests 
 Types de tests appliqués 
 Synthèse de tests 
 
 
-Conception des tests 
+
 [Conception des tests](https://docs.google.com/document/d/1o1g3CfSvPM0GjFFmtMKfW6YT3fQpt8lLYnLovWd1pS8/edit)
 
-# Projet de Test du Site Web d'[It-Akademy](https://inscription.it-akademy.fr/)
 
-L'ensemble des tests fonctionnels, de compatibilité et de sécurité a été conçu et automatisé pour vérifier l'exactitude du site d'It-Akademy dans différents environnements. Le processus d'automatisation a été amélioré pour garantir la robustesse des tests.
+
 
 
 Objectif
@@ -22,6 +20,11 @@ Création d'un nouveau compte
 Connexion à un compte existant
 Réinitialisation du mot de passe
 Vérification de l'affichage du site sur différents navigateurs (Firefox, Chrome)
+Tester la déconnexion du compte (test de sécurité) 
+
+
+L'ensemble des tests fonctionnels, de compatibilité et de sécurité a été conçu et automatisé pour vérifier l'exactitude du site d'It-Akademy dans différents environnements. Le processus d'automatisation a été amélioré pour garantir la robustesse des tests.
+
 
 Types de test :
 F : Fonctionnel
