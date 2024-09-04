@@ -1,6 +1,4 @@
-# Conception-des-tests-et-Automatisation-
-
-## Projet de Test du Site Web d'[It-Akademy](https://inscription.it-akademy.fr/)
+# Projet de Test du Site Web d'[It-Akademy](https://inscription.it-akademy.fr/)
 
 ## Objectif:
 
