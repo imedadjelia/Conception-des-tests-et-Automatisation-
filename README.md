@@ -16,6 +16,7 @@ Le projet vise à valider les fonctionnalités du site web [It-Akademy](https://
 Dans le cadre de ce projet, détaillé plus en profondeur dans ce google docs ["Conception des tests"](https://docs.google.com/document/d/1o1g3CfSvPM0GjFFmtMKfW6YT3fQpt8lLYnLovWd1pS8/edit), j'ai accompli les tâches suivantes :
 
 * Création de scénarios de tests couvrant divers types de tests (fonctionnels, compatibilité, sécurité).
+  
   Exemple: [cas de test](![image](https://github.com/user-attachments/assets/66f691c5-4f56-4f3d-8b46-8ce2edfaf7b0)
 
 * Planification et Synthèse des tests.
