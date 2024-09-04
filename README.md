@@ -19,13 +19,26 @@ Dans le cadre de ce projet, détaillé plus en profondeur dans ce google docs ["
   
   Exemple cas de test:
 
-  (![image](https://github.com/user-attachments/assets/66f691c5-4f56-4f3d-8b46-8ce2edfaf7b0)
+  ![image](https://github.com/user-attachments/assets/66f691c5-4f56-4f3d-8b46-8ce2edfaf7b0)
 
 * Planification et Synthèse des tests.
+  Exemple du tableau synthèse :
+
+  ![image](https://github.com/user-attachments/assets/b4ba5e37-c11e-42ce-bbc3-42dd4cbad2b0)
+
 * Automatisation des scénarios de tests en utilisant Sélénium IDE.
+
+ ![image](https://github.com/user-attachments/assets/8f7dd8a1-b591-459c-bef6-26f840c24b08)
+
 * Amélioration de la robustesse du script généré par Sélénium IDE grâce à des modifications ciblées.
 * Exécution des tests automatisés via Pytest.
+
+![image](https://github.com/user-attachments/assets/974a9d95-e252-42e8-b3cd-bc6fa05cec57)
+
 * Génération d'un rapport HTML des résultats à l'aide du plugin "pytest-html".
+
+  ![image](https://github.com/user-attachments/assets/5a965b1e-0cc7-4e07-b312-173416f77e76)
+
 
 
 
